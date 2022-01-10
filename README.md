@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shahfik
 - 👀 I’m interested in technology with a keen interest in cloud.
 - 🌱 I’m currently learning the modern data stack
-- 💞️ I’m looking to collaborate on building resilient high performance architectures in the area of serverless and spot instances.
+- 💞️ I’m looking to build on the great work of others.
 - 📫 I can be reached at shahfik@gmail.com
 
 <!---
